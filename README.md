@@ -1,4 +1,4 @@
-# Exercise about MAP in JAVA
+# Exercise about STREAM in JAVA
 
 
 >### Status: Finished ✔️
@@ -11,8 +11,7 @@
 ---
 
 >## SOBRE ❓
-> Exercicio sobre map para melhorar o entendimento da linguagem. Para esse exercício, o uso do MAP é mais adequado pois ele percorre a lista de forma muito rápida,
-diferentemente se fosse usado uma lista para percorrer o arquivo de input, pois a lista percorre de elemento em elemento.<br><br>
+> Exercicio sobre stream para melhorar o entendimento da linguagem. Nesse exercício foi usado alguns conceitos como por exemplo exceções, pipeline, operações terminais e intermediárias, comparator e etc.<br><br>
 
 ---
 
@@ -20,12 +19,12 @@ diferentemente se fosse usado uma lista para percorrer o arquivo de input, pois 
 
 ## Enunciado 
 
-<img src="https://github.com/Leothurm/Exercise-Map-in-JAVA/blob/main/assets/enunciado.PNG">
+<img src="https://github.com/Leothurm/Stream-in-JAVA/blob/main/img/enunciado1.PNG">
 
 
 ## Input/Output
 
-<img src="https://github.com/Leothurm/Exercise-Map-in-JAVA/blob/main/assets/entrada%26saida.PNG">
+<img src="https://github.com/Leothurm/Stream-in-JAVA/blob/main/img/enunciado2.PNG">
 
 </div>
 
